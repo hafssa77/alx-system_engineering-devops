@@ -1,5 +1,5 @@
 #!/bin/bash
-total 40
+echo "total 40
 drwxr-xr-x 2 root root 198 Jul 10 13:47 .
 drwxr-xr-x 6 root root 153 Jul 10 11:27 ..
 -rwxr--r-- 1 root root  32 Jul 10 11:59 0-hello_world
@@ -11,4 +11,4 @@ drwxr-xr-x 6 root root 153 Jul 10 11:27 ..
 -rwxr--r-- 1 root root  40 Jul 10 13:13 6-third_line
 -rwxr--r-- 1 root root  99 Jul 10 13:35 7-file
 -rwxr--r-- 1 root root  43 Jul 10 13:47 8-cwd_state
--rw-r--r-- 1 root root  42 Jul 10 11:58 README.md
+-rw-r--r-- 1 root root  42 Jul 10 11:58 README.md" > ls_cwd_content
