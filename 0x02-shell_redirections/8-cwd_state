@@ -1,4 +1,5 @@
 #!/bin/bash
+touch ls _cwd _content 
 echo "total 40
 drwxr-xr-x 2 root root 198 Jul 10 13:47 .
 drwxr-xr-x 6 root root 153 Jul 10 11:27 ..
